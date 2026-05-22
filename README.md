@@ -38,7 +38,7 @@ Production-ready Apache Guacamole native installation automation for Ubuntu with
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Nexoryx_Guacamole.git
+git clone https://github.com/bkarankar/Nexoryx_Guacamole.git
 
 cd Nexoryx_Guacamole
 ```
@@ -73,8 +73,8 @@ Never commit real production secrets to GitHub repositories.
 # Dummy Azure Variables
 
 ```bash
-AZURE_TENANT_ID="${AZURE_TENANT_ID:-13d8c6f3-3245-6544-60d5-23df2e267adb}"
-AZURE_CLIENT_ID="${AZURE_CLIENT_ID:-c37a000a-031e-4a91-a000-2ff4324295b6}"
+AZURE_TENANT_ID="${AZURE_TENANT_ID:-abcdef-1234-1234-12d4-2342424}"
+AZURE_CLIENT_ID="${AZURE_CLIENT_ID:-abcdefgh-001e-b187-o998-65645646}"
 ```
 
 These are NOT real production credentials.
