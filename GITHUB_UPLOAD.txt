@@ -1,0 +1,11 @@
+Repository Name:
+Nexoryx_Guacamole
+
+Git Commands:
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/Nexoryx_Guacamole.git
+git push -u origin main
