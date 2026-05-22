@@ -44,7 +44,7 @@ Production-ready Apache Guacamole native installation automation for Ubuntu with
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Nexoryx_Guacamole.git
+git clone https://github.com/bkarankar/Nexoryx_Guacamole.git
 
 cd Nexoryx_Guacamole
 ```
